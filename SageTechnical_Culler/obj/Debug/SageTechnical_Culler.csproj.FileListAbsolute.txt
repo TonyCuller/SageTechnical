@@ -1,0 +1,9 @@
+c:\users\atony\documents\visual studio 2015\Projects\SageTechnical_Culler\SageTechnical_Culler\bin\Debug\SageTechnical_Culler.exe.config
+c:\users\atony\documents\visual studio 2015\Projects\SageTechnical_Culler\SageTechnical_Culler\obj\Debug\SageTechnical_Culler.csprojResolveAssemblyReference.cache
+c:\users\atony\documents\visual studio 2015\Projects\SageTechnical_Culler\SageTechnical_Culler\bin\Debug\SageTechnical_Culler.exe
+c:\users\atony\documents\visual studio 2015\Projects\SageTechnical_Culler\SageTechnical_Culler\bin\Debug\SageTechnical_Culler.pdb
+c:\users\atony\documents\visual studio 2015\Projects\SageTechnical_Culler\SageTechnical_Culler\obj\Debug\SageTechnical_Culler.exe
+c:\users\atony\documents\visual studio 2015\Projects\SageTechnical_Culler\SageTechnical_Culler\obj\Debug\SageTechnical_Culler.pdb
+C:\Users\atony\Documents\Visual Studio 2015\Projects\SageTechnical_Culler\SageTechnical\SageTechnical_Culler\bin\Debug\SageTechnical_Culler.exe.config
+C:\Users\atony\Documents\Visual Studio 2015\Projects\SageTechnical_Culler\SageTechnical\SageTechnical_Culler\obj\Debug\SageTechnical_Culler.exe
+C:\Users\atony\Documents\Visual Studio 2015\Projects\SageTechnical_Culler\SageTechnical\SageTechnical_Culler\obj\Debug\SageTechnical_Culler.pdb
